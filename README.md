@@ -1,6 +1,6 @@
 # OrbitMLP: Neural Network Orbital Trajectory Predictor
 
-<a href="https://huggingface.co/asgeirr89"><img src="https://img.shields.io/badge/Author-asgeirr89-blue.svg"></a>
+<a href="https://huggingface.co/asgeirr89"><img src="https://img.shields.io/badge/Author-oscar-blue.svg"></a>
 <img src="https://img.shields.io/badge/License-MIT-green.svg">
 <img src="https://img.shields.io/badge/Framework-JAX%20%7C%20Flax-orange.svg">
 <img src="https://img.shields.io/badge/Python-3.13-blue.svg">
