@@ -237,5 +237,5 @@ If you use this model in your research, please cite:
 ---
 
 <a href="https://huggingface.co/asgeirr89">
-  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/powered-by-hugging-face.svg" alt="Powered by Hugging Face">
+  <img src="https://huggingface.co/datasets/huggingface/badges/raw/main/powered-by-hugging-face.svg" alt="Hugging Face">
 </a>
